@@ -1,1 +1,0 @@
-if you are looking for assets for specific pages, they ain't here, you need look in specific directories named after sections. E.g. "Deck Plans"
